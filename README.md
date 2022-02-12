@@ -3,7 +3,7 @@
 Final Scores for classification of tweets into Relevant and Irrelevant using XLM-T model:
 
 | Dataset                   |Accuracy|Precision|Recall|F1-Score|
-|---------------------------|:------:| -------:|-----:|.......:|
+|---------------------------|--------|---------|------|--------|
 |2015_Nepal_Earthquake      | 0.960  | 0.945   | 0.919| 0.931  |
 |2015_Cyclone_Pam           | 0.935  | 0.933   | 0.862| 0.892  |
 |2014_California_Earthquake | 0.890  | 0.609   | 0.662| 0.628  |
